@@ -1,0 +1,101 @@
+1662212838753	geckodriver	INFO	Listening on 127.0.0.1:54199
+1662212975595	geckodriver	INFO	Listening on 127.0.0.1:54261
+1662213075084	geckodriver	INFO	Listening on 127.0.0.1:54346
+1662213075604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54347" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/20/hsfmqlss2r1cbqvc1rqhsy7r0000gn/T/rust_mozprofileaNjO2S"
+2022-09-03 14:51:20.437 plugin-container[83067:5200705] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:51:20.438 plugin-container[83067:5200705] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662213080460	Marionette	INFO	Marionette enabled
+1662213080529	Marionette	INFO	Listening on port 54355
+WebDriver BiDi listening on ws://localhost:54347
+Read port: 54355
+2022-09-03 14:51:20.584 plugin-container[83067:5200705] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:51:20.584 plugin-container[83067:5200705] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 14:51:20.584 plugin-container[83067:5200709] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:51:20.584 plugin-container[83067:5200709] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662213080943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/20/hsfmqlss2r1cbqvc1rqhsy7r0000gn/T/rust_mozprofileaNjO2S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54347/devtools/browser/2b96e4de-5e35-4116-8d2f-5a55f23a4c13
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JI0Pcydj_YJwFyiv8pAtPmsHnnPx6gDBxLt0n0XpIm8.js line 2 > eval line 6921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JI0Pcydj_YJwFyiv8pAtPmsHnnPx6gDBxLt0n0XpIm8.js line 2 > eval line 1578 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1662213093130	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 58: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1662213302454	geckodriver	INFO	Listening on 127.0.0.1:54720
+1662213302974	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54721" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/20/hsfmqlss2r1cbqvc1rqhsy7r0000gn/T/rust_mozprofilev3bOSg"
+2022-09-03 14:55:03.549 plugin-container[83333:5204171] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:55:03.550 plugin-container[83333:5204171] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 14:55:03.558 plugin-container[83333:5204171] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:55:03.558 plugin-container[83333:5204171] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 14:55:03.558 plugin-container[83333:5204179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:55:03.558 plugin-container[83333:5204179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662213303569	Marionette	INFO	Marionette enabled
+1662213303623	Marionette	INFO	Listening on port 54727
+WebDriver BiDi listening on ws://localhost:54721
+Read port: 54727
+1662213304007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/20/hsfmqlss2r1cbqvc1rqhsy7r0000gn/T/rust_mozprofilev3bOSg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54721/devtools/browser/6e94051f-4921-4eff-af5e-a510c05652d5
+1662213306509	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.kohls.com/snb/media/44.0.0-1645/javascript/deploy/kjscoretag3.js, line 214: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.kohls.com/catalog/mens-button-down-shirts-tops-clothing.jsp?CN=Gender:Mens+Silhouette:Button-Down%20Shirts+Category:Tops+Department:Clothing&cc=mens-TN3.0-S-buttondownshirts&kls_sbp=43160314801019132980443403449632772558&PPP=120&WS=0, line 26883: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript warning: https://www.kohls.com/ZkJoeX/31l57k/QC/bTsB/KCwYCLDuI/a5aYh0N93O/Ij1uUB8pAw/O2wgXE/VYIj4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.kohls.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.kohls.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.kohls.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JI0Pcydj_YJwFyiv8pAtPmsHnnPx6gDBxLt0n0XpIm8.js line 2 > eval line 481 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.google.com/adsense/search/async-ads.js, line 234: uncaught exception: google.ads.search.Ads: container "adcontainer1" does not exist.
+JavaScript error: https://www.google.com/adsense/search/async-ads.js, line 234: uncaught exception: google.ads.search.Ads: container "afshcontainer" does not exist.
+1662213553425	geckodriver	INFO	Listening on 127.0.0.1:55022
+1662213553946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55023" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/20/hsfmqlss2r1cbqvc1rqhsy7r0000gn/T/rust_mozprofileF5uoGJ"
+2022-09-03 14:59:14.480 plugin-container[83577:5208249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:59:14.480 plugin-container[83577:5208249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 14:59:14.484 plugin-container[83577:5208249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:59:14.484 plugin-container[83577:5208249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 14:59:14.485 plugin-container[83577:5208258] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 14:59:14.485 plugin-container[83577:5208258] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662213554495	Marionette	INFO	Marionette enabled
+1662213554536	Marionette	INFO	Listening on port 55029
+WebDriver BiDi listening on ws://localhost:55023
+Read port: 55029
+1662213554876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/20/hsfmqlss2r1cbqvc1rqhsy7r0000gn/T/rust_mozprofileF5uoGJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55023/devtools/browser/e29659a9-5b74-4d0b-90f8-253a3664a1e4
+1662213652298	geckodriver	INFO	Listening on 127.0.0.1:55173
+1662213652818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55174" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/20/hsfmqlss2r1cbqvc1rqhsy7r0000gn/T/rust_mozprofileE7ACa3"
+2022-09-03 15:00:53.352 plugin-container[83708:5210170] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 15:00:53.353 plugin-container[83708:5210170] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 15:00:53.356 plugin-container[83708:5210170] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 15:00:53.356 plugin-container[83708:5210170] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 15:00:53.357 plugin-container[83708:5210168] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 15:00:53.357 plugin-container[83708:5210168] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662213653370	Marionette	INFO	Marionette enabled
+1662213653418	Marionette	INFO	Listening on port 55180
+WebDriver BiDi listening on ws://localhost:55174
+Read port: 55180
+1662213653771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/20/hsfmqlss2r1cbqvc1rqhsy7r0000gn/T/rust_mozprofileE7ACa3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55174/devtools/browser/9892c113-4904-4cbe-878f-d36c372a2e80
+1662213656169	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.kohls.com/snb/media/44.0.0-1645/javascript/deploy/kjscoretag3.js, line 214: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.kohls.com/catalog/mens-button-down-shirts-tops-clothing.jsp?CN=Gender:Mens+Silhouette:Button-Down%20Shirts+Category:Tops+Department:Clothing&cc=mens-TN3.0-S-buttondownshirts&kls_sbp=43160314801019132980443403449632772558&PPP=120&WS=0, line 26883: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.kohls.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.kohls.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.kohls.com."
+JavaScript warning: https://www.kohls.com/ZkJoeX/31l57k/QC/bTsB/KCwYCLDuI/a5aYh0N93O/Ij1uUB8pAw/O2wgXE/VYIj4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JI0Pcydj_YJwFyiv8pAtPmsHnnPx6gDBxLt0n0XpIm8.js line 2 > eval line 2251 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662213910886	Marionette	INFO	Stopped listening on port 55180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662213912686	Marionette	INFO	Stopped listening on port 55029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662213917092	Marionette	INFO	Stopped listening on port 54727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662213919275	Marionette	INFO	Stopped listening on port 54355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
